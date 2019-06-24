@@ -9,7 +9,7 @@ $margin: 20px 10px;
     padding: 0;
 }
 body{
-    background-color: #5B625D;
+    background-color: rgba(91, 98, 93, 0.76);
     color: white;
     font-family: $paragraph;
     max-width: 100%;
@@ -27,6 +27,7 @@ h2{
     margin-top: 30px;
     margin-bottom: 10px;
     font-weight: normal;
+    line-height: 50px;
 }
 h3{
     font-family: $titles;
